@@ -1,0 +1,25 @@
+
+body {
+    background-color: black;
+  }
+  
+  th, td {
+    border: 1px solid red;
+  }
+  thead th {
+    width: 10%;
+    padding: 8px;
+  }
+
+  table {
+    border-collapse: collapse;
+    width: 50%;
+    height: 50%;
+  }
+  .heading {
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    color: blue;
+  }
+  
